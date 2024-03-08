@@ -1,14 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/LOuMvgtV)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11487027&assignment_repo_type=AssignmentRepo)
+# NYC Yellow Taxi Demand in Four NYC Boroughs
 
-# MAST30034 Project 1 README.md
+Date ended research: 21/8/2023
 
-- Name: `Izzah Dalila Mohd Khairudin`
-- Student ID: `1268317`
+**Research Goal:** My research goal is to investigate how different transportation hubs and volume in subway ridership can affect yellow taxi demand in four different NYC boroughs (Bronx, Brooklyn, Manhattan, Queens).
 
-**Research Goal:** My research goal is to investigate how different transportation hubs and volume in subway ridership can affect yellow taxi demand in NYC.
-
-**Timeline:** The timeline for the research area is August 2022 to March 2023.
+**Research Data Timeline:** The data used for this research area was from August 2022 to March 2023.
 
 ### Instructions
 
